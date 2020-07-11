@@ -1,0 +1,12 @@
+{
+  "name": "practice-before-implementation",
+  "displayName": "practice-before-implementation",
+  "expo": {
+    "name": "practice-before-implementation",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
